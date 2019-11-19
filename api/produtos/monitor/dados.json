@@ -1,0 +1,20 @@
+{
+    "id":"monitor",
+    "nome":"monitor",
+    "preco":"4500",
+    "descricao":"todas essas questoes devidamentes ponderadas levatam duvidas sobre se a necessidade de renovacao processual causam impacto",
+    "estoque":"6",
+    "img":"./api/produtos/monitor/notebook.jpg",
+    "avaliacoes":[
+        {
+            "nome":"fabio",
+            "estrelas":5,
+            "descricao":"gostei muito do produto"
+        },
+        {
+            "nome":"ricardo",
+            "estrelas":5,
+            "descricao":"Muito bom"
+        }
+    ]
+}
