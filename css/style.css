@@ -48,3 +48,8 @@ body{
 .modal{
     background: white;
 }
+
+.testebranch{
+    max-resolution: 50%;
+    padding:0px;
+}
